@@ -1,8 +1,8 @@
 # 🚗 Car Price Prediction with ML
 ## 🖥️ Application Screenshot
 
-![Car Price Prediction App](localhost_8501_.png)
-![Car Price Prediction App](car2.png)
+![Car Price Prediction App-Input](./localhost_8501_.png)
+![Car Price Prediction App-Output](./car2.png)
 
 A machine learning project that predicts the selling price of used cars based on features such as year, present price, kilometers driven, fuel type, seller type, transmission, and previous owners.
 
